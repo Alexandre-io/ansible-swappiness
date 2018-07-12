@@ -1,4 +1,4 @@
-# Ansible Swappiness
+# Ansible Swappiness [![Build Status](https://travis-ci.org/Alexandre-io/ansible-swappiness.svg?branch=master)](https://travis-ci.org/Alexandre-io/ansible-swappiness)
 
 Set swappiness to desired value.
 
